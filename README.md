@@ -1,4 +1,3 @@
-"# CIFAR-10-Project" 
 
 # CODE IMPLEMENTATION
 
